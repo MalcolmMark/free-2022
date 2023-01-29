@@ -19,9 +19,9 @@ No UI Template This is an API strictly
 8. A mentor can decline a mentorship session request.
 
 Optional Features
-● Users can view all their mentorship sessions.
-● Users can review a mentor after a mentorship session.
-● Admin can delete a review deemed as inappropriate.
+- Users can view all their mentorship sessions.
+- Users can review a mentor after a mentorship session.
+- Admin can delete a review deemed as inappropriate.
 
 ## Lanugauges Used
 - JavaSCript ES6
